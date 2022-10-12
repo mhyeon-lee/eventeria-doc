@@ -1,26 +1,24 @@
 {
-    "name": "eventeria-doc",
-    "version": "1.0.0",
-    "description": "eventeria documentation",
-    "main": "none.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mhyeon-lee/eventeria-doc.git"
-    },
-    "author": "",
-    "license": "Apache 2.0",
-    "bugs": {
-      "url": "https://github.com/mhyeon-lee/eventeria-doc/issues"
-    },
-    "homepage": "https://github.com/mhyeon-lee/eventeria-doc#readme",
-    "dependencies": {
-      "postcss": "^8.3.6"
-    },
-    "devDependencies": {
-      "autoprefixer": "^10.3.4",
-      "postcss-cli": "^8.3.1"
-    }
+  "name": "eventeria-doc",
+  "version": "1.0.0",
+  "description": "eventeria documentation",
+  "main": "none.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhyeon-lee/eventeria-doc.git"
+  },
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mhyeon-lee/eventeria-doc/issues"
+  },
+  "homepage": "https://github.com/mhyeon-lee/eventeria-doc#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.7",
+    "postcss-cli": "^9.0.2"
   }
+}
