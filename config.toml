@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mhyeon-lee.github.io/eventeria-doc'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "docsy"
